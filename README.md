@@ -1,9 +1,8 @@
 # Introducing: The Token Invalidator
 
-People are often stupid.
+People are stupid.
+This repository allows us to quickly invalidate leaked tokens. If a token appears here, it'll promptly be reset by Discord.
 
-So well, if I find a token somewhere public, I.e. on Discord, here it goes to.
-
-Discord automatically resets it.
+Stay safe! ♥
 
 ![Example Reset](2021-10-29_15h47_35.png)
